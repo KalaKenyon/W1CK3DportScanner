@@ -48,6 +48,6 @@ root.mainloop()
 <p>This tool should be used responsibly and with proper authorization. The author is not responsible for any misuse or damage caused by this software.</p>
 
 <h2>Contact</h2>
-<p>For any inquiries, please contact [Kala Kenyon](mailto:kalamkenyon@gmail.com).</p>
+<p>For any inquiries, please contact Kala Kenyon at KalaMKenyon@gmail.com.</p>
 
 
