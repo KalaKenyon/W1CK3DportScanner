@@ -48,4 +48,5 @@ root.mainloop()
 <p>This tool should be used responsibly and with proper authorization. The author is not responsible for any misuse or damage caused by this software.</p>
 
 <h2>Contact</h2>
-<p>For any inquiries, please contact <a href="kalamkenyon@gmail.com">KalaKenyon</a>.</p>
+<p>For any inquiries, please contact <a href="mailto:kalamkenyon@gmail.com">KalaKenyon</a>.</p>
+
